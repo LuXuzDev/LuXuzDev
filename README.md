@@ -42,5 +42,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
   </a>
 </div>
-
+<div align="right">
+  <a href="https://wa.me/5353796979" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="32" height="20" alt="whatsapp logo"  />
+  </a>
+</div>
 ###
